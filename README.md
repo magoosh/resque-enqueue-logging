@@ -1,8 +1,19 @@
 Resque::Plugins::EnqueueLogging
 ===============================
 
+[![Gem Version](https://badge.fury.io/rb/resque-enqueue-logging.svg)](http://badge.fury.io/rb/resque-enqueue-logging)
+
 This is a lightweight Resque plugin to log whenever a job is enqueued. Super
 handy for debugging :smile:
+
+Installation
+------------
+
+Add to your Gemfile:
+
+```
+gem "resque-enqueue-logging"
+```
 
 Usage
 -----

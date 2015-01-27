@@ -21,9 +21,6 @@ Gem::Specification.new do |s|
   s.add_dependency "resque", "~> 1.25"
   s.add_development_dependency "minitest"
 
-  s.description = <<desc
-Resque plugin to log info whenever a job is enqueued.
+  s.description = 'Logs detailed info when a resque job is enqueued: "Enqueued SortUserJob to "low": user_id=1, options={"force"=>true}"'
 
-Example: Enqueued SortUserJob to "low": user_id=1, options={"force"=>true}
-desc
 end
