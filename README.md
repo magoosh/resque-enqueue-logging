@@ -41,4 +41,5 @@ Enqueued SortUserJob to "low": user_id=1, options={"force"=>true}
 
 TODO
 ----
-Add tests
+* Add tests
+* Add CI configuration (and test coverage badge)
