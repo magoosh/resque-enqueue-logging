@@ -4,7 +4,7 @@ Resque::Plugins::EnqueueLogging
 A lightweight Resque plugin to log whenever a job is enqueued. Super handy for
 debugging! :smile:
 
-[![Gem Version](https://badge.fury.io/rb/resque-enqueue-logging.svg)](http://badge.fury.io/rb/resque-enqueue-logging)
+[![Gem Version](https://badge.fury.io/rb/resque-enqueue-logging.svg)](http://badge.fury.io/rb/resque-enqueue-logging) [![Code Climate](https://codeclimate.com/github/magoosh/resque-enqueue-logging/badges/gpa.svg)](https://codeclimate.com/github/magoosh/resque-enqueue-logging)
 
 Installation
 ------------
